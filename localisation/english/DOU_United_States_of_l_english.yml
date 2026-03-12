@@ -2,6 +2,13 @@
 
 USA:0 "United States Focus Tree"
 
+### Names ###
+
+########################################
+### Character Localization - Leaders ###
+########################################
+USA_donald_turmp: "Donald Trump"
+
 ####################################
 ### Events - United States of America ###
 ####################################
@@ -16,10 +23,26 @@ USA_a_moderate_stance: "A Modern Stance"
 USA_a_moderate_stance_desc: "Seeing as how our current policies are making the racial and political tensions worse in America, along with the fact that people who oppose us, such as Democrats and moderate Republicans, are steadily gaining opposition.\n\nWe must soften our stance on the things we are against if we are to improve our standing among these groups."
 
 USA_or_a_hard_line: "...or a Hard Line"
-USA_or_a_hard_line_desc: ""
+USA_or_a_hard_line_desc: "No. The woke degenerates need to understand this country is not run by them, it’s run by us, and if that makes us racists, or fascists, or misogynistic, so be it.\n\nWe don’t care.\n\nThis country is ours, never theirs. They should keep that mind, or they can forget another debate."
 
 USA_taking_down_solemani: "Taking Down Solemani"
 USA_taking_down_solemani_desc: ""
 
 USA_repercussions: "Repercussions"
 USA_repercussions_desc: ""
+
+USA_managing_the_crapstorm: "Managing the Crapstorm"
+USA_managing_the_crapstorm_desc: ""
+
+USA_under_control: "Under Control"
+USA_under_control_desc: ""
+
+USA_black_gold_blood_stained_sand: "Black Gold, Blood-Stained Sand"
+USA_black_gold_blood_stained_sand_desc: ""
+
+#####################################################
+### National Focuses Localisation - Outbreak ###
+#####################################################
+
+USA_situation_in_portland: "Situation in Portland"
+USA_situation_in_portland_desc: ""
