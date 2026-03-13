@@ -1,0 +1,20 @@
+characters = {
+    #######################
+    ### Country Leaders ###
+    #######################
+    USA_donald_trump = {
+        name = USA_donald_trump
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/Portrait_USA_Donald_Trump.dds"
+			}
+		}
+		country_leader = {
+			desc = "DONALD_TRUMP_DESC"
+			expire = "2020.8.27"
+			ideology = maga_conservatism_ideology
+			traits = {
+
+			}
+		}
+    }
