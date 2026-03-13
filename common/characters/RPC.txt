@@ -1,0 +1,20 @@
+characters = {
+    #######################
+    ### Country Leaders ###
+    #######################
+    RPC_robert_neville = {
+        name = RPC_robert_neville
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RPC/Portrait_RPC_Robert_Neville.dds"
+			}
+		}
+		country_leader = {
+			desc = "ROBERT_NEVILLE_DESC"
+			expire = "2039.1.01"
+			ideology = liberal_atheism_ideology
+			traits = {
+
+			}
+		}
+    }
